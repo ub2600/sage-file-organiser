@@ -34,7 +34,7 @@ Built on the architecture of `csv-organizer`, with native support for Sage data 
    git add .
    git commit -m "Initial commit of Sage File Organiser"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/sage-file-organiser.git
+   git remote add origin https://github.com/ub2600/sage-file-organiser.git
    git push -u origin main
    ```
 3. **Download executable**:
